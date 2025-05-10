@@ -24,6 +24,7 @@ public class Arithmetic
    }
    public static void main(String[] args) 
    {
+	System.out.println("some changes done");   
 	Arithmetic ob=new Arithmetic();
 	int sumresult=ob.sum(12, 2);
 	int subresult=ob.sub(12, 2);
